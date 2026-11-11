@@ -1,3 +1,5 @@
+<img src="assets/icon.png" alt="Signal Lab" width="96" height="96">
+
 # Signal Lab MCP server
 
 **Free data for trading and AI agents.** Signal Lab is a hosted, read-only MCP server over a catalog of 500+ free and free-to-start data sources: financial markets, global macro, energy, agriculture and food, money flows, transport and shipping, research, weather, news and OSINT. Each entry records how to get access (no key, free key or account), rate limits, license and terms, evidence links, and the date we last checked it against the provider's own pages.
