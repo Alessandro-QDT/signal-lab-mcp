@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "signal-lab": {
+      "type": "http",
+      "url": "https://signal-lab.qdt.ai/api/mcp"
+    }
+  }
+}
