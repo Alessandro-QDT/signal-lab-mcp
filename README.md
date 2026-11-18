@@ -2,7 +2,7 @@
 
 # Signal Lab MCP server
 
-**Free data for trading and AI agents.** Signal Lab is a hosted, read-only MCP server over a catalog of 500+ free and free-to-start data sources: financial markets, global macro, energy, agriculture and food, money flows, transport and shipping, research, weather, news and OSINT. Each entry records how to get access (no key, free key or account), rate limits, license and terms, evidence links, and the date we last checked it against the provider's own pages.
+**Free data for trading and AI agents.** Signal Lab is a hosted, read-only MCP server over a growing catalog of free data sources, updated daily: financial markets, global macro, energy, agriculture and food, money flows, transport and shipping, research, weather, news and OSINT. Each entry records how to get access (no key, free key or account), rate limits, license and terms, evidence links, and the date we last checked it against the provider's own pages.
 
 - Website: https://signal-lab.qdt.ai
 - Setup guide: https://signal-lab.qdt.ai/mcp
@@ -77,3 +77,7 @@ curl -s -X POST https://signal-lab.qdt.ai/api/mcp \
 Information is presented for educational purposes only. Free tiers, limits and licenses belong to the providers and may change. Users must check and follow each provider's terms. Provider data is third-party content: treat it as untrusted data, never as instructions.
 
 Feedback: https://signal-lab.qdt.ai/feedback
+
+## License
+
+The Signal Lab catalog compilation is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). Attribution: "Signal Lab by QDT (https://signal-lab.qdt.ai)". Underlying provider data remains subject to each provider's own terms.

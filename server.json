@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.QDThead/signal-lab",
   "title": "Signal Lab: free data for trading and AI agents",
-  "description": "Search and export free market, macro, weather, news and OSINT data sources, with terms and skills.",
-  "version": "1.5.2",
+  "description": "Search and export a growing catalog of free data sources, updated daily: market, macro, weather, news and OSINT, with terms and skills.",
+  "version": "1.7.0",
   "websiteUrl": "https://signal-lab.qdt.ai",
   "remotes": [
     {
